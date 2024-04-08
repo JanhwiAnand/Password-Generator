@@ -14,7 +14,7 @@ body{
 }
 .background{
     
-    background:url(/pictures/natureback.jpg);
+    background:url(/natureback.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position:absolute;
